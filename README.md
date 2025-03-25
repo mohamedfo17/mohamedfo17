@@ -5,7 +5,6 @@ WEB DEVELOPER
 -------------
 
 * 🌍  I'm based in ALGEIRS
-* 🧠  I'm learning NEXT.JS
 
 ### Skills
 
